@@ -1,6 +1,6 @@
 ---
 title: Zhuoyang Pan
-role: Rising junior-year undergraduate student at ShanghaiTech University
+role: Rising Junior-year Undergraduate Student
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
@@ -30,8 +30,8 @@ social:
     icon_pack: ai
     link: uploads/resume.pdf
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: ShanghaiTech University
+    url: https://www.shanghaitech.edu.cn/
 education:
   courses:
     - course: PhD in Artificial Intelligence
