@@ -40,19 +40,6 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: Research Assistant
-          company: LumiAni
-          company_url: ''
-          company_logo: org-gc
-          location: California
-          date_start: '2022-03-01'
-          date_end: ''
-          description: |2-
-              Responsibilities include:
-
-              * Analysing
-              * Modelling
-              * Deploying
     
         - title: Bachelor Student of Computer Science and Technology
           company: ShanghaiTech University
