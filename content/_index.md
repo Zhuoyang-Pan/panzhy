@@ -53,6 +53,7 @@ sections:
               * Analysing
               * Modelling
               * Deploying
+    
         - title: Bachelor Student of Computer Science and Technology
           company: ShanghaiTech University
           company_url: 'https://www.shanghaitech.edu.cn/'
@@ -60,7 +61,6 @@ sections:
           location: Shanghai, China
           date_start: '2021-09-01'
           date_end: 'Present'
-          description: check
       
     design:
       columns: '2'
