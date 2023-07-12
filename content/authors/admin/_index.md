@@ -1,7 +1,7 @@
 ---
 title: Zhuoyang Pan
 role: Rising Junior-year Undergraduate Student
-avatar_filename: zhuoyangpan.jpg
+avatar_filename: avatar.jpg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
