@@ -53,14 +53,13 @@ sections:
               * Analysing
               * Modelling
               * Deploying
-        - title: Professor of Semiconductor Physics
-          company: University X
-          company_url: ''
+        - title: Bachelor Student of Computer Science and Technology
+          company: ShanghaiTech University
+          company_url: 'https://www.shanghaitech.edu.cn/'
           company_logo: org-x
-          location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
+          location: Shanghai, China
+          date_start: '2021-09-01'
+          date_end: 'Present'
     design:
       columns: '2'
   - block: accomplishments
