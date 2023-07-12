@@ -52,6 +52,9 @@ highlight_name: true
 first_name: Alice
 email: ""
 ---
+I am a rising junior-year undergraduate student at ShanghaiTech University majoring in computer science and technology.  My primary fields of interest span computer vision, computational photography, and graphics, with a particular focus on the domains of neural modeling and rendering, and the digital portrayal of humans and animals.
 
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+At present, my research is centered around unearthing an innovative method of 3D modeling, a method that successfully combines the advantages of traditional rendering pipelines with the cutting-edge progress in neural radiance fields. A significant application of this technology is in animal fur modeling, a subfield to which I am fervently committed.
+
+My ambition is to seamlessly blend the strengths of traditional methods with the potential of advanced neural radiance fields, with the objective of advancing new frontiers in 3D modeling. As I navigate through this riveting field, my goal is to make substantial contributions to the understanding and evolution of computer vision, digital graphics, and computational photography.
 {style="text-align: justify;"}
