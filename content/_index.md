@@ -39,28 +39,7 @@ sections:
       #   Required fields are `title`, `company`, and `date_start`.
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
-      items:
-        - title: CEO
-          company: LumiAni
-          company_url: ''
-          company_logo: org-gc
-          location: California
-          date_start: '2021-01-01'
-          date_end: ''
-          description: |2-
-              Responsibilities include:
-
-              * Analysing
-              * Modelling
-              * Deploying
-        - title: Bachelor Student of Computer Science and Technology
-          company: ShanghaiTech University
-          company_url: 'https://www.shanghaitech.edu.cn/'
-          company_logo: org-x
-          location: Shanghai, China
-          date_start: '2021-09-01'
-          date_end: 'Present'
-          description: check
+      
     design:
       columns: '2'
   - block: accomplishments
