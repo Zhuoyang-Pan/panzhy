@@ -36,7 +36,7 @@ organizations:
     url: https://www.shanghaitech.edu.cn/
 education:
   courses:
-    - course: BSc in Computer Science and Technology
+    - course: B.E. in Computer Science and Technology
       institution: ShanghaiTech University
       year: 2025
 superuser: true
