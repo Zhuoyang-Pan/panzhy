@@ -60,7 +60,7 @@ sections:
           location: Shanghai, China
           date_start: '2021-09-01'
           date_end: 'Present'
-          description:
+          description: check
     design:
       columns: '2'
   - block: accomplishments
