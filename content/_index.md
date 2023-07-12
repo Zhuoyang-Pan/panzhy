@@ -41,7 +41,7 @@ sections:
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
         - title: CEO
-          company: GenCoin
+          company: LumiAni
           company_url: ''
           company_logo: org-gc
           location: California
