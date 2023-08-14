@@ -31,7 +31,7 @@ sections:
           description: 100%
           icon: chart-line
           icon_pack: fas
-      - name: Unity
+        - name: Unity
           description: 100%
           icon: chart-line
           icon_pack: fas
