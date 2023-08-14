@@ -17,7 +17,7 @@ sections:
       title: Skills
       items:
         - name: Python
-          icon: r-project
+          icon: python
           icon_pack: fab
         - name: C/C++
           description: 100%
