@@ -19,7 +19,23 @@ sections:
         - name: Python
           icon: r-project
           icon_pack: fab
-        - name: Statistics
+        - name: C/C++
+          description: 100%
+          icon: chart-line
+          icon_pack: fas
+        - name: Cuda
+          description: 100%
+          icon: chart-line
+          icon_pack: fas
+        - name: Maya
+          description: 100%
+          icon: chart-line
+          icon_pack: fas
+      - name: Unity
+          description: 100%
+          icon: chart-line
+          icon_pack: fas
+        - name: Blender
           description: 100%
           icon: chart-line
           icon_pack: fas
