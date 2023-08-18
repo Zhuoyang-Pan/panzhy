@@ -20,28 +20,40 @@ sections:
           icon: python
           icon_pack: fab
         - name: C/C++
-          description: 100%
           icon: chart-line
           icon_pack: fas
         - name: Cuda
-          description: 100%
+          icon: chart-line
+          icon_pack: fas
+        - name: Pytorch
+          icon: chart-line
+          icon_pack: fas
+        - name: Pytorch3d
+          icon: chart-line
+          icon_pack: fas
+        - name: Nvdiffrast
+          icon: chart-line
+          icon_pack: fas
+        - name: GLSL
+          icon: chart-line
+          icon_pack: fas
+        - name: HLSL
           icon: chart-line
           icon_pack: fas
         - name: Maya
-          description: 100%
           icon: chart-line
           icon_pack: fas
         - name: Unity
-          description: 100%
           icon: chart-line
           icon_pack: fas
         - name: Blender
-          description: 100%
           icon: chart-line
           icon_pack: fas
         - name: Photography
-          description: 10%
           icon: camera-retro
+          icon_pack: fas
+        - name: Drone
+          icon: chart-line
           icon_pack: fas
   - block: experience
     content:
