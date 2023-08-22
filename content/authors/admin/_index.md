@@ -24,7 +24,7 @@ social:
     link: https://github.com/Monsieur-Pan
   - icon: linkedin
     icon_pack: fab
-    link: [https://www.linkedin.com/](https://www.linkedin.com/in/zhuoyang-pan-571187287/)
+    link: https://www.linkedin.com/in/zhuoyang-pan-571187287/
   - icon: cv
     icon_pack: ai
     link: uploads/resume.pdf
