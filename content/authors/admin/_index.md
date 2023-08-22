@@ -48,5 +48,5 @@ I am a rising junior-year undergraduate student at ShanghaiTech University major
 
 At present, my research is centered around unearthing an innovative method of 3D modeling, a method that successfully combines the advantages of traditional rendering pipelines with the cutting-edge progress in neural radiance fields. A significant application of this technology is in animal fur modeling, a subfield to which I am fervently committed.
 
-Currently, I am a visiting student at UC Berkeley. I've been fortunate to be a part of the VRVC Lab at ShanghaiTech University since 2021, mentored by Prof. Jingyi Yu and Prof. Lan Xu. My ambition is to seamlessly blend the strengths of traditional methods with the potential of advanced neural radiance fields, with the objective of advancing new frontiers in 3D modeling.
+Currently, I am a visiting student at UC Berkeley. I've been fortunate to be a part of the [VRVC Lab](https://vic.shanghaitech.edu.cn/vrvc/en/) at ShanghaiTech University since 2021, mentored by [Prof. Jingyi Yu](http://www.yu-jingyi.com/cv/) and [Prof. Lan Xu](http://xu-lan.com/). My ambition is to seamlessly blend the strengths of traditional methods with the potential of advanced neural radiance fields, with the objective of advancing new frontiers in 3D modeling.
 {style="text-align: justify;"}
