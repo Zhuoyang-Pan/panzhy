@@ -12,49 +12,6 @@ sections:
       title: Biography
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
-  - block: features
-    content:
-      title: Skills
-      items:
-        - name: Python
-          icon: python
-          icon_pack: fab
-        - name: C/C++
-          icon: chart-line
-          icon_pack: fas
-        - name: Cuda
-          icon: chart-line
-          icon_pack: fas
-        - name: Pytorch
-          icon: chart-line
-          icon_pack: fas
-        - name: Pytorch3d
-          icon: chart-line
-          icon_pack: fas
-        - name: Nvdiffrast
-          icon: chart-line
-          icon_pack: fas
-        - name: GLSL
-          icon: chart-line
-          icon_pack: fas
-        - name: HLSL
-          icon: chart-line
-          icon_pack: fas
-        - name: Maya
-          icon: chart-line
-          icon_pack: fas
-        - name: Unity
-          icon: chart-line
-          icon_pack: fas
-        - name: Blender
-          icon: chart-line
-          icon_pack: fas
-        - name: Photography
-          icon: camera-retro
-          icon_pack: fas
-        - name: Drone
-          icon: chart-line
-          icon_pack: fas
   - block: experience
     content:
       title: Experience
@@ -190,6 +147,8 @@ sections:
   - block: tag_cloud
     content:
       title: Skills
+    design:
+      columns: '2'
   - block: contact
     id: contact
     content:
