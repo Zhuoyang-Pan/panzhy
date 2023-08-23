@@ -8,7 +8,6 @@ interests:
   - Computer Graphics
   - Computer Vision
   - Computational Photography
-  - Artificial Intelligence
 social:
   - icon: envelope
     icon_pack: fas
@@ -47,4 +46,6 @@ email: ""
 I am a rising junior-year undergraduate student at ShanghaiTech University majoring in computer science and technology. Currently, I am a visiting student at UC Berkeley. I've been fortunate to be a part of the [VRVC Lab](https://vic.shanghaitech.edu.cn/vrvc/en/) at ShanghaiTech University since 2021, mentored by [Prof. Jingyi Yu](http://www.yu-jingyi.com/cv/) and [Prof. Lan Xu](http://xu-lan.com/). My primary fields of interest span computer vision, computational photography, and graphics, with a particular focus on the domains of neural modeling and rendering, and the digital portrayal of humans and animals.
 
 At present, my research is centered around unearthing an innovative method of 3D modeling, a method that successfully combines the advantages of traditional rendering pipelines with the cutting-edge progress in neural radiance fields. A significant application of this technology is in animal fur modeling, a subfield to which I am fervently committed.
+
+Outside of academics, my hobbies include playing the piano, photography, and drone flying. I also consider myself a traveler, having visited more than 20 countries and regions.
 {style="text-align: justify;"}
