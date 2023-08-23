@@ -189,9 +189,7 @@ sections:
       view: compact
   - block: tag_cloud
     content:
-      title: Popular Topics
-    design:
-      columns: '2'
+      title: Skills
   - block: contact
     id: contact
     content:
