@@ -35,6 +35,7 @@ authors:
 tags:
   - Academic
   - 开源
+  - Python
 
 categories:
   - Demo
