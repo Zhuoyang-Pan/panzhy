@@ -47,5 +47,5 @@ I am a rising junior-year undergraduate student at ShanghaiTech University major
 
 At present, my research is centered around unearthing an innovative method of 3D modeling, a method that successfully combines the advantages of traditional rendering pipelines with the cutting-edge progress in neural radiance fields. A significant application of this technology is in animal fur modeling, a subfield to which I am fervently committed.
 
-Outside of academics, my hobbies include playing the piano, photography, and drone flying. I also consider myself a world traveler, having visited more than 20 countries and regions.
+Outside of academics, my hobbies include playing the piano, photography, and drone flying. I also consider myself a world traveler, having visited more than 20 countries and regions across Africa, Asia, Europe and North America.
 {style="text-align: justify;"}
