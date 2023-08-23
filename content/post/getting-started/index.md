@@ -33,9 +33,23 @@ authors:
   - 吳恩達
 
 tags:
-  - Academic
-  - 开源
   - Python
+  - C/C++
+  - Cuda
+  - Matlab
+  - RISC-V
+  - Swift
+  - Pascal
+  - glsl
+  - hlsl
+  - Maya
+  - Blender
+  - Unity
+  - Pytorch
+  - Pytorch3d
+  - Nvdiffrast
+  - Photography
+  - Drone Flying
 
 categories:
   - Demo
