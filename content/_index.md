@@ -116,7 +116,7 @@ sections:
       filters:
         folders:
           - publication
-        featured_only: true
+        featured_only: false
     design:
       columns: '2'
       view: card
