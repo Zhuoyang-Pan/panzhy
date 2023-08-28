@@ -24,10 +24,17 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
+        - title: Visiting Student of Computer Science
+          company: University of California, Berkeley
+          company_url: 'https://www.berkeley.edu/'
+          company_logo: UC-Berkeley-Symbol
+          location: Berkeley, CA
+          date_start: '2023-08-17'
+          date_end: ''
         - title: Research Assistant
           company: LumiAni
           company_url: ''
-          company_logo: org-gc
+          company_logo: lumiani
           location: Shanghai, China
           date_start: '2022-03-01'
           date_end: ''
