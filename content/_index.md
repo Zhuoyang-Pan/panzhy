@@ -27,14 +27,14 @@ sections:
         - title: Visiting Student of Computer Science
           company: University of California, Berkeley
           company_url: 'https://www.berkeley.edu/'
-          company_logo: UC-Berkeley-Symbol
+          company_logo: sht
           location: Berkeley, CA
           date_start: '2023-08-17'
           date_end: ''
         - title: Research Assistant
           company: LumiAni
           company_url: ''
-          company_logo: lumiani
+          company_logo: sht
           location: Shanghai, China
           date_start: '2022-03-01'
           date_end: ''
