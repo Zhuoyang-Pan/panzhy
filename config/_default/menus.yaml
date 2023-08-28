@@ -12,7 +12,7 @@ main:
   #  weight: 20
   - name: Projects
     url: '#projects'
-    weight: 30
+    weight: 20
   - name: Gallery
     url: '#gallery'
     weight: 30
