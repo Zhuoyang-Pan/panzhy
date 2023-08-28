@@ -1,6 +1,6 @@
 ---
-title: External Project
-summary: An example of linking directly to an external project website using `external_link`.
+title: More Projects Coming Soon...
+summary: I am currently organizing my previous projects and will gradually upload them on this page.
 tags:
   - Demo
 date: "2016-04-27T00:00:00Z"
