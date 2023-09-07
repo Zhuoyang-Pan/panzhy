@@ -13,6 +13,8 @@ external_link: https://inst.eecs.berkeley.edu/~cs180/fa23/upload/files/proj1/pan
 
 url_project: https://inst.eecs.berkeley.edu/~cs180/fa23/upload/files/proj1/panzhy/
 
+publication_short: "UC Berkeley CS180: Intro to Computer Vision and Computational Photography Project #1"
+
 image:
   caption: Photo of the Emir of Bukhara
   focal_point: "Top"
