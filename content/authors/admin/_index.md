@@ -1,9 +1,8 @@
 ---
 title: Zhuoyang Pan
-role: Rising Junior-year Undergraduate Student
+role: A Junior-year Undergraduate Student
 avatar_filename: avatar.jpg
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: My research interests span computer vision, computational photography, and graphics, with a particular focus on the domains of neural modeling and rendering, and the digital portrayal of humans and animals.
 interests:
   - Computer Graphics
   - Computer Vision
@@ -38,12 +37,12 @@ education:
 superuser: true
 status:
   icon: ☕️
-last_name: Wu
+last_name: Pan
 highlight_name: true
-first_name: Alice
+first_name: Zhuoyang
 email: ""
 ---
-I am a rising junior-year undergraduate student at ShanghaiTech University majoring in computer science and technology. Currently, I am a visiting student at UC Berkeley. I've been fortunate to be a part of the [VRVC Lab](https://vic.shanghaitech.edu.cn/vrvc/en/) at ShanghaiTech University since 2021, mentored by [Prof. Jingyi Yu](http://www.yu-jingyi.com/cv/) and [Prof. Lan Xu](http://xu-lan.com/). My primary fields of interest span computer vision, computational photography, and graphics, with a particular focus on the domains of neural modeling and rendering, and the digital portrayal of humans and animals.
+I am a junior-year undergraduate student at ShanghaiTech University majoring in computer science and technology. Currently, I am a visiting student at UC Berkeley. I've been fortunate to be a part of the [VRVC Lab](https://vic.shanghaitech.edu.cn/vrvc/en/) at ShanghaiTech University since 2021, mentored by [Prof. Jingyi Yu](http://www.yu-jingyi.com/cv/) and [Prof. Lan Xu](http://xu-lan.com/). My primary fields of interest span computer vision, computational photography, and graphics, with a particular focus on the domains of neural modeling and rendering, and the digital portrayal of humans and animals.
 
 At present, my research is centered around unearthing an innovative method of 3D modeling, a method that successfully combines the advantages of traditional rendering pipelines with the cutting-edge progress in neural radiance fields. A significant application of this technology is in animal fur modeling, a subfield to which I am fervently committed.
 

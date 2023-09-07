@@ -27,7 +27,7 @@ sections:
         - title: Visiting Student of Computer Science
           company: University of California, Berkeley
           company_url: 'https://www.berkeley.edu/'
-          company_logo: sht
+          company_logo: UC-Berkeley-Symbol
           location: Berkeley, CA
           date_start: '2023-08-17'
           date_end: ''
