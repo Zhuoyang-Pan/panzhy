@@ -9,6 +9,7 @@ date: "2023-09-06T00:00:00Z"
 external_link: https://inst.eecs.berkeley.edu/~cs180/fa23/upload/files/proj1/panzhy/
 
 url_project: https://inst.eecs.berkeley.edu/~cs180/fa23/upload/files/proj1/panzhy/
+url_gallery: https://inst.eecs.berkeley.edu/~cs180/fa23/upload/files/proj1/panzhy/results/
 
 image:
   caption: Photo of the Emir of Bukhara
