@@ -16,4 +16,6 @@ url_project: https://inst.eecs.berkeley.edu/~cs180/fa23/upload/files/proj1/panzh
 image:
   caption: Photo of the Emir of Bukhara
   focal_point: "Top"
+
+featured: true
 ---
