@@ -3,7 +3,7 @@ title: Fun with Filters and Frequencies!
 authors:
 - Zhuoyang Pan
 
-summary: In this project, I explored the Fourier Transform, Gaussian and Laplacian Stacks, and multiresolution blending. I made some interesting results by applying the techniques I learned to some images of my own captured images and even professors
+summary: In this project, I explored the Fourier Transform, Gaussian and Laplacian Stacks, and multiresolution blending. I made some interesting results by applying the techniques I learned to some images of my own captured images and even professors.
 tags:
   - CS180
 date: "2023-09-19T00:00:00Z"
