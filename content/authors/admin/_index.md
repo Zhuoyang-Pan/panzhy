@@ -19,7 +19,7 @@ social:
       header: true
   - icon: github
     icon_pack: fab
-    link: https://github.com/Monsieur-Pan
+    link: https://github.com/Zhuoyang-Pan
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/zhuoyang-pan-571187287/
