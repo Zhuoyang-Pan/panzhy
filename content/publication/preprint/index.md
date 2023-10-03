@@ -17,7 +17,7 @@ publication_short: "UC Berkeley CS180/280A: Intro to Computer Vision and Computa
 
 image:
   caption: Photo of the Emir of Bukhara
-  focal_point: "Right"
+  focal_point: "Top"
 
 featured: true
 ---

@@ -17,7 +17,7 @@ publication_short: "UC Berkeley CS180/280A: Intro to Computer Vision and Computa
 
 image:
   caption: Our Results
-  focal_point: "Smart"
+  focal_point: "Right"
 
 featured: true
 ---
