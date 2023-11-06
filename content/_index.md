@@ -24,6 +24,13 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
+      - title: Team Member & Contributor
+          company: Nerfstudio
+          company_url: 'https://nerf.studio/'
+          company_logo: ns
+          location: Berkeley, CA
+          date_start: '2023-08-17'
+          date_end: ''
         - title: Visiting Student of Computer Science
           company: University of California, Berkeley
           company_url: 'https://www.berkeley.edu/'
