@@ -24,7 +24,7 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-      - title: Team Member & Contributor
+      - title: Team Member, Contributor
           company: Nerfstudio
           company_url: 'https://nerf.studio/'
           company_logo: ns
