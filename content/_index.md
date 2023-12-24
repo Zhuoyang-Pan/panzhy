@@ -34,16 +34,16 @@ sections:
         - title: Research Assistant
           company: LumiAni
           company_url: ''
-          company_logo: org-gc
+          company_logo: lumiani
           location: Shanghai, China
           date_start: '2022-03-01'
           date_end: ''
-          description: |2-
-              Responsibilities include:
+          # description: |2-
+          #     Responsibilities include:
 
-              * Analysing
-              * Modelling
-              * Deploying
+          #     * Analysing
+          #     * Modelling
+          #     * Deploying
         - title: Bachelor Student of Computer Science and Technology
           company: ShanghaiTech University
           company_url: 'https://www.shanghaitech.edu.cn/'

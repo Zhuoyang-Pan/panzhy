@@ -19,5 +19,5 @@ image:
   caption: Photo of the Emir of Bukhara
   focal_point: "Top"
 
-featured: true
+featured: false
 ---

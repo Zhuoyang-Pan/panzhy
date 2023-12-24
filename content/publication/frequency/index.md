@@ -19,5 +19,5 @@ image:
   caption: Our Results
   focal_point: "Smart"
 
-featured: true
+featured: false
 ---
