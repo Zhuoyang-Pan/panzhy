@@ -40,7 +40,7 @@ status:
 last_name: Pan
 highlight_name: true
 first_name: Zhuoyang
-email: ""
+email: "zhuoyangpan@outlook.com"
 ---
 I am a junior-year undergraduate student at [ShanghaiTech University](https://www.shanghaitech.edu.cn/eng/) majoring in computer science and technology. Currently, I am also a visiting student at [UC Berkeley](https://www.berkeley.edu/). I’ve been fortunate to work with the [Nerfstudio](https://nerf.studio) team at the [BAIR Lab](https://bair.berkeley.edu/), under the guidance of [Prof. Angjoo Kanazawa](https://people.eecs.berkeley.edu/~kanazawa/). Additionally, I'm part of the [VRVC Lab](https://vic.shanghaitech.edu.cn/vrvc/en/) at ShanghaiTech University, where I've been mentored by [Prof. Jingyi Yu](http://www.yu-jingyi.com/cv/) and [Prof. Lan Xu](https://www.xu-lan.com/) since 2021. My primary fields of interest span computer vision, computational photography, and graphics, with a particular focus on the domains of neural modeling and rendering, and the digital portrayal of humans and animals.
 

@@ -31,13 +31,13 @@ sections:
           location: Berkeley, CA
           date_start: '2023-08-17'
           date_end: ''
-        - title: Research Assistant
-          company: LumiAni
-          company_url: ''
-          company_logo: lumiani
-          location: Shanghai, China
-          date_start: '2022-03-01'
-          date_end: ''
+        # - title: Research Assistant
+        #   company: LumiAni
+        #   company_url: ''
+        #   company_logo: lumiani
+        #   location: Shanghai, China
+        #   date_start: '2022-03-01'
+        #   date_end: ''
           # description: |2-
           #     Responsibilities include:
 
@@ -119,19 +119,19 @@ sections:
     design:
       columns: '2'
       view: card
-  - block: markdown
-    content:
-      title: Gallery
-      subtitle: ''
-      text: |-
-        {{< gallery album="demo" >}}
-    design:
-      columns: '1'
+  # - block: markdown
+  #   content:
+  #     title: Gallery
+  #     subtitle: ''
+  #     text: |-
+  #       {{< gallery album="demo" >}}
+  #   design:
+  #     columns: '1'
 
 
-  - block: tag_cloud
-    content:
-      title: Skills
-    design:
-      columns: '2'
+  # - block: tag_cloud
+  #   content:
+  #     title: Skills
+  #   design:
+  #     columns: '2'
 ---
